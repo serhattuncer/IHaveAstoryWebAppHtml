@@ -1,0 +1,42 @@
+body {
+			background:#fff;
+		}
+
+		html,
+		body,
+		.view {
+			height:100%;
+		}
+
+		.navbar-brand {
+			color:#fff !important;
+		}
+
+		.profile-photo {
+			width:48px;
+			height:auto;
+		}
+
+		.flex-menu {
+			display:flex;
+		}
+
+		.flex-menu li:not(:last-child) {
+			margin-right:40px;
+		}
+		.container{
+		  padding-left:200px;
+		  margin-top:60px;
+		}
+        .img-circle{
+			border-radius:50%;
+			margin-top:15px;
+			
+		}
+		.m-t-3{
+			margin-top: 100px;
+			margin-left: 30px;
+		}
+		.ms-auto{margin-left:auto!important;margin-top:3px;}
+		.offset-md-1 {margin-left: 1;}
+		.nav-header .header-search .form-group.icon-input i {top: 30px;}
